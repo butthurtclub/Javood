@@ -10,7 +10,7 @@ __all__ = (
 class OutOfFuelException(Exception):
     """The fuel is over"""
     pass
-
+    
 class Car:
     """
     A class for Car representing.
